@@ -3,15 +3,7 @@
 Painter/Artist Portfolio
 
 
-Created a clients porfolio with:
-
--bootstrap
-
--html
-
--css
-
--JavaScript
+-Created a portfolio for an artist using Python "Flask" as a backend and HTML, CSS, BOOTSTRAP & JavaScript for the frontend.
 
 
 -- CHECK IT OUT --
